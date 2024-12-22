@@ -1,4 +1,4 @@
-<p>A Corrida pela Eficiência:  Como Democratizar o Desenvolvimento de Sistemas</p>
+<p> <b> A Corrida pela Eficiência:  Como Democratizar o Desenvolvimento de Sistemas </b> </p>
 
 📒 Descrição
 Este projeto é uma apresentação desenvolvida com a ajuda de inteligência artificial, focada em abordar como plataformas low-code estão permitindo que profissionais não técnicos participem da criação de soluções inovadoras, acelerando a transformação digital no setor bancário.
@@ -8,7 +8,7 @@ Este projeto é uma apresentação desenvolvida com a ajuda de inteligência art
 Utilizei o ChatGPT para a produção de conteúdo o ElevenLabs para a geração de áudio e o CapCut para a edição do áudio
 
 [ChatGPT](https://chatgpt.com/)</br>
-[Elevenhttps](https://elevenlabs.io/)</br>
+[ElevenLabs](https://elevenlabs.io/)</br>
 [CapCut](https://www.capcut.com/pt-br/)
 
 🧐 Processo de Criação
