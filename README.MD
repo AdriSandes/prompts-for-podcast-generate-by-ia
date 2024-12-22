@@ -7,7 +7,7 @@ Este projeto é uma apresentação desenvolvida com a ajuda de inteligência art
 🤖 Tecnologias Utilizadas
 Utilizei o ChatGPT para a produção de conteúdo o ElevenLabs para a geração de áudio e o CapCut para a edição do áudio
 
-https://chatgpt.com/
+[ChatGPT](https://chatgpt.com/)
 https://elevenlabs.io/
 https://www.capcut.com/pt-br/
 
